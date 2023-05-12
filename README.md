@@ -48,8 +48,8 @@ Screenshots
 
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100014110/237925814-acc585aa-81c2-43a0-8ed3-c4295cac571e.png" alt="Screenshot 1" width="400">
-
-![Screenshot_1683882420](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/da34e74c-b869-4a92-9ced-c5aae7943950)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100014110/237925814-acc585aa-81c2-43a0-8ed3-c4295cac571e.png" alt="Screenshot 1" width="400">
+![Screenshot_1683882420]()
 ![Screenshot_1683882425](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/ac3dc43f-bbf1-498c-9c8e-cd05bacd36f9)
 ![Screenshot_1683882440](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/1112323d-5a72-462d-935c-c06b7cfaa1fe)
 
