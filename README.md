@@ -45,7 +45,7 @@ Flutter
 Dart
 
 Screenshots
-![Screenshot_1683882394](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/acc585aa-81c2-43a0-8ed3-c4295cac571e)
+<a href="url"><img src="[http://url.to/image.png](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/acc585aa-81c2-43a0-8ed3-c4295cac571e)" align="left" height="48" width="48" ></a>
 ![Screenshot_1683882420](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/da34e74c-b869-4a92-9ced-c5aae7943950)
 ![Screenshot_1683882425](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/ac3dc43f-bbf1-498c-9c8e-cd05bacd36f9)
 ![Screenshot_1683882440](https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/1112323d-5a72-462d-935c-c06b7cfaa1fe)
